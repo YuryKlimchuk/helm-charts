@@ -3,6 +3,16 @@ entries:
   prodms:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2025-01-08T12:47:15.592983758Z"
+    description: A Helm chart for Kubernetes
+    digest: 36323c74aee7258ebe79e749fae3a3505ac8e15ace41fe460ec80f9c3640f01d
+    name: prodms
+    type: application
+    urls:
+    - https://github.com/YuryKlimchuk/helm-charts/releases/download/prodms-1.0.0/prodms-1.0.0.tgz
+    version: 1.0.0
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2025-01-06T21:01:12.598906657Z"
     description: A Helm chart for Kubernetes
     digest: d50fb09d22a2d635339e9601c1e6b3ec32dcab5ee5fdcdb8fc81b628a315e538
@@ -22,4 +32,4 @@ entries:
     urls:
     - https://github.com/YuryKlimchuk/helm-charts/releases/download/test-chart-0.1.0/test-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2025-01-06T21:01:12.598917537Z"
+generated: "2025-01-08T12:47:15.592996351Z"
